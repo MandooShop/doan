@@ -1,26 +1,26 @@
 [
   {
-    "id1": 1,
-    "HinhSanPham1": "https://salt.tikicdn.com/ts/tmp/4f/e4/f5/d319c41dc5b2b6a177f03c280383fea7.jpg",
-    "SaoSanPham1": "4.5",
-    "TenSanPham1": "Giày Thể Thao Nữ Màu Trắng Bằng Da Không Bong Tróc Cao 4cm Đế Êm Nhẹ S352",
-    "GiaSanPham1": "297.000 đ",
-    "HinhSao1": "ngoisao.png"
+    "id3": 1,
+    "HinhSanPham3": "https://salt.tikicdn.com/ts/tmp/4f/e4/f5/d319c41dc5b2b6a177f03c280383fea7.jpg",
+    "SaoSanPham3": "4.5",
+    "TenSanPham3": "Giày Thể Thao Nữ Màu Trắng...",
+    "GiaSanPham3": "297.000 đ",
+    "HinhSao3": "ngoisao.png"
   },
   {
-    "id1": 2,
-    "HinhSanPham1": "https://salt.tikicdn.com/cache/750x750/ts/product/d9/7f/72/e73992735a0cf0c6d1895e589aaeed20.png.webp",
-    "SaoSanPham1": "4.5",
-    "TenSanPham1": "Giày Thể Thao Nam Màu Đen, Sneaker Nam Màu Đen, Đế Êm, Nhẹ Thoáng Khí S355",
-    "GiaSanPham1": "307.000 đ",
-    "HinhSao1": "ngoisao.png"
+    "id3": 2,
+    "Hin0hSanPham3": "https://salt.tikicdn.com/cache/750x750/ts/product/d9/7f/72/e73992735a0cf0c6d1895e589aaeed20.png.webp",
+    "SaoSanPham3": "4.5",
+    "TenSanPham3": "Giày Thể Thao Nam Màu Đen...",
+    "GiaSanPham3": "307.000 đ",
+    "HinhSao3": "ngoisao.png"
   },
   {
-    "id1": 3,
-    "HinhSanPham1": "https://salt.tikicdn.com/cache/750x750/ts/product/55/1c/83/16eae45e855d98de5f6170164ca4e8b3.jpg.webp",
-    "SaoSanPham1": "3.9",
-    "TenSanPham1": "Giày Thể Thao Thời Trang Nữ - A1O4",
-    "GiaSanPham1": "66.000 đ",
-    "HinhSao1": "ngoisao.png"
+    "id3": 3,
+    "HinhSanPham3": "https://salt.tikicdn.com/cache/750x750/ts/product/55/1c/83/16eae45e855d98de5f6170164ca4e8b3.jpg.webp",
+    "SaoSanPham3": "3.9",
+    "TenSanPham3": "Giày Thể Thao Thời Trang Nữ - A1O4",
+    "GiaSanPham3": "66.000 đ",
+    "HinhSao3": "ngoisao.png"
   }
 ]

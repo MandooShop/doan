@@ -22,5 +22,14 @@
     "TenSanPham1": "Sữa Rửa Mặt Naruko ",
     "GiaSanPham1": "315.000 đ",
     "HinhSao1": "ngoisao.png"
+  },
+   {
+    "id1": 4,
+    "HinhSanPham1": "https://media.hasaki.vn/catalog/product/g/o/google-shopping-phan-nuoc-laneige-che-phu-min-li-24h-tong-mau-13n-2x15g_img_358x358_843626_fit_center.jpg",
+    "SaoSanPham1": "4.5",
+    "TenSanPham1": "Phấn Nước Laneige",
+    "GiaSanPham1": "300.000 đ",
+    "HinhSao1": "ngoisao.png"
   }
+  
 ]
